@@ -10,5 +10,13 @@
     "test": "mocha"
   },
   "author": "David Mellheden",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmellheden/temperature.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dmellheden/temperature/issues"
+  },
+  "homepage": "https://github.com/dmellheden/temperature#readme"
 }
