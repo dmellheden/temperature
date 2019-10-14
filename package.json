@@ -1,0 +1,14 @@
+{
+  "name": "temperature",
+  "version": "1.0.0",
+  "description": "mocha tutorial part 2",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "David Mellheden",
+  "license": "ISC"
+}
